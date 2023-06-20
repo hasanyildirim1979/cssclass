@@ -161,7 +161,7 @@ div.transformy:hover {
 div.transformxy:hover {
     transform: rotate(180deg);
 } */
-/* div.transformx:hover {
+div.transformx:hover {
     transform: scaleX(2)
 }
 div.transformy:hover {
@@ -169,7 +169,7 @@ div.transformy:hover {
 }
 div.transformxy:hover {
     transform: scale(0.5,0.5)
-} */
+}
 div.transformx:active {
     transform: skewX(20deg)
 }
