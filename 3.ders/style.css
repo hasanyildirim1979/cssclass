@@ -131,7 +131,7 @@ span.c {
 
 /* css position */
 
-div.box1 {
+/* div.box1 {
     width: 100px;
     height: 100px;
     background-color: yellow;
@@ -153,9 +153,9 @@ div.box3 {
     background-color: blue;
     position: static;
     left: 25px;
-}
+} */
 
-div.kırmızı {
+/* div.kırmızı {
     width:400px;
     height:400px;
     background-color:red;

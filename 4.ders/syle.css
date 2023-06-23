@@ -15,7 +15,7 @@
     text-overflow:ellipsis;
 } */
 
-/* .div1 {
+.div1 {
     background: red;
     float: right;
     padding:15px;
@@ -70,7 +70,7 @@ p::selection {
 } */
 /* [class*='site'] {
     border: 5px solid black
-} */
+}
 
 /* başlangıç değeri olarak kabul eder */
 /* [class^="search"] {
